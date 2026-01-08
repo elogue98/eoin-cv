@@ -87,8 +87,8 @@ export const cvData = {
       {
         name: "Programming & ETL",
         items: [
-          { name: "SQL", level: 90 },
-          { name: "Python", level: 90 },
+          { name: "SQL", level: 95 },
+          { name: "Python", level: 95 },
           { name: "Tableau Prep", level: 90 },
           { name: "VBA", level: 85 },
           { name: "R", level: 80 }
