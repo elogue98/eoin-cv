@@ -15,17 +15,18 @@ export const cvData = {
       period: "Jul 2022 - Present",
       summary: "Based within the User Experience Analytics team, I create dashboards to provide data insights and analytics to support initiatives that enhance end-user experiences. My role enables strategic service improvements through automation, actionable reporting and innovative solutions to deliver measurable value to stakeholders.",
       responsibilities: [
-        "Lead the design and development deployment of dashboard solutions for stakeholders within End User Services (EUS).",
-        "Develop ETL processes with Python and SQL to transform data from various sources (CSV, TXT, JSON) to enable effective dashboard development.",
+        "Lead the design and development deployment of dashboard solutions for stakeholders within Digital Workplace Client Services (DWCS).",
+        "Develop ETL processes with Python and SQL to transform data from various sources using a range of methods (CSV, TXT, JSON) to enable effective dashboard development.",
         "Lead project planning by creating documentation, establishing project timelines, tracking progress and communicating with stakeholders to ensure successful execution of plans, leading to successful outcomes and supporting business objectives.",
-        "Facilitate the team’s adoption of modern, Citi certified tooling by leading migration to latest technology to ensure compliance, enhancing the team’s ability to deliver more efficient, scalable solutions and provide superior offerings to stakeholders."
+        "Facilitate the team’s adoption of modern, Citi certified tooling by leading migration to latest technology to ensure compliance, enhancing the team’s ability to deliver more efficient, scalable solutions and provide superior offerings to stakeholders.",
+        "Act as an advisor and coach within the UX Analytics team, mentoring colleagues on data visualisation best practices and ETL optimization techniques."
       ],
       achievements: [
+        "Spearheaded Model Context Protocol (MCP) initiative, integrating the DWCS data warehouse with an LLM front end using MCP to enable AI-driven insights and improve data accessibility for stakeholders.",
         "Led the development of the Support Service Chatbot Dashboard in Tableau. Provided analysis of chatbot resolution rates, uncovering insights that minimized manual intervention, improving operational efficiency.",
         "Designed and deployed high-performance dashboards using Tableau and Grafana, optimizing data rendering for large datasets, reducing load times by 90% through SQL query optimisation.",
-        "Reengineered analytics methodologies by introducing a centralised dashboard catalog, improving transparency across EUS, enhancing collaboration and reducing duplication of efforts.",
-        "Led development of the EUS Product Performance Dashboard, providing insights into key performance pillars across end user products. Empowered product managers with actionable data, enabling informed decision-making, identification of trends, and uncovering optimization opportunities to drive product strategy.",
-        "Acted as an advisor and coach within the UX Analytics team, mentoring colleagues on Tableau best practices and ETL optimization techniques.",
+        "Reengineered analytics methodologies by introducing a centralised dashboard catalog, improving transparency across DWCS, enhancing collaboration and reducing duplication of efforts.",
+        "Owned DWCS Product Performance Dashboard Project, defining KPIs and providing insights into key performance pillars across end user products. Empowered product managers with actionable data, enabling decision-making, identification of trends, and optimization opportunities to drive product strategy.",
         "Resolved complex data quality challenges by implementing automated validation processes in Python and Tableau Prep, ensuring consistent accuracy across reports."
       ]
     },
@@ -35,12 +36,12 @@ export const cvData = {
       period: "Jul 2021 - Jul 2022",
       summary: "Based within the Peripherals and Assistive Technology team, responsible for supporting strategic projects to introduce new technologies, support automation and improve existing processes.",
       responsibilities: [
-        "Assisted in initial stages of Lab-as-a-Service project by analysing existing labs within Citi, understanding their processes and infrastructure, and engaging with vendors, analysing software tools viability to help achieve end state.",
-        "Chair of the EUS Architecture Council, responsible for liaising with stakeholders, coordinating meetings and identifying ways to improve existing processes."
+        "Assisted in Lab-as-a-Service project by analysing existing labs within Citi, understanding their processes and infrastructure, and engaging with vendors, analysing software tools viability to help achieve end state.",
+        "Chair of the CTI DWCS Architecture Council, responsible for liaising with stakeholders, coordinating meetings and identifying ways to improve existing processes."
       ],
       achievements: [
         "Contributed to ARM Processors business case by documenting technical viability, analysing potential cost savings and illustrating how ARM can contribute to achieving Citi Net Zero 2050 objective. Created a dynamic excel dashboard to forecast metrics.",
-        "Improved existing CTI EUS Architecture Council processed by creating a centralised solution in Sharepoint. This created an accessible way to access enhanced meeting content including VOD and action tracking."
+        "Improved existing CTI DWCS Architecture Council processed by creating a centralised solution in Sharepoint. This created an accessible way to access enhanced meeting content including VOD and action tracking."
       ]
     },
     {
@@ -117,6 +118,6 @@ export const cvData = {
     "As an active Steering Committee member in the Disability and Neurodiversity Network at Citi for over two years, I’m passionate about supporting diversity and inclusion, promoting accessibility, and advocating for positive change.",
     "I enjoy cooking, and especially baking. I appreciate the science behind bread-making and enjoy experimenting with new techniques and recipes.",
     "In my spare time I love traveling to new cities and countries, immersing myself in diverse cultures.",
-    "Maintain an interest in emerging technology trends and regularly try out new tools and devices in my spare time."
+    "Maintain an active interest in emerging technologies, building small web applications and experimenting with new tools in my spare time."
   ]
 };
